@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "mobx": "^6.10.2",
+    "mobx-react-lite": "^4.0.4",
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/node": "20.6.1",
+    "@types/react": "^18.2.21",
     "eslint": "8.49.0",
-    "eslint-config-next": "13.4.19"
+    "eslint-config-next": "13.4.19",
+    "typescript": "5.2.2"
   }
 }
